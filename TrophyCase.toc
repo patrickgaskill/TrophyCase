@@ -1,0 +1,8 @@
+## Interface: 30000
+## Title: Trophy Case
+## Notes: Displays all of the epic gear you've acquired.
+## SavedVariables: TrophyCaseDB, TrophyCaseDebug
+## Author: Patrick Gaskill
+## Version: 0.5
+
+TrophyCase-0.5.xml
